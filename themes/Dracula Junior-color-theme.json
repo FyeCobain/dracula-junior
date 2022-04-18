@@ -2,7 +2,7 @@
 	"name": "Dracula Junior",
 	"colors": {
 		"foreground": "#FFFFFF",
-		"window.activeBorder": "#6272A400",
+		"window.activeBorder": "#6272A4A0",
 		"titleBar.activeBackground": "#21222C",
 		"menu.background": "#343746",
 		"menu.selectionBackground": "#44475A",
@@ -86,6 +86,8 @@
 		{
 			"name": "purple",
 			"scope": [
+				"keyword.other.unit", //css px, %, etc
+				"support.constant", //css properties
 				"variable", //All variables
                 "constant", //All constants
 				"keyword.operator" //All operators
@@ -118,10 +120,9 @@
 		{
 			"name": "yellow",
 			"scope": [
-				"support.constant"
 			],
 			"settings": {
-				"foreground": "#FF79C6"
+				"foreground": "#F1FA8C"
 			}
 		},
 		{
@@ -139,7 +140,7 @@
 			"scope": [
 				//"meta.function variable",
 				//"meta.block variable"
-				"punctuation" //punctuations
+				"punctuation", //punctuation
 			],
 			"settings": {
 				"foreground": "#F8F8F2"
@@ -182,7 +183,9 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				//"foreground": "#FF5370EC",
+				"foreground": "#FFCB6B",
+				"fontStyle": "italic strikethrough"
 			}
 		},
 		{
@@ -237,7 +240,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#50FA7B00"
+				"foreground": "#50FA7B"
 			}
 		},
 		{
@@ -268,7 +271,6 @@
 				"constant.character",
 				"constant.escape",
 				"variable.parameter",*/
-				"keyword.other.unit",
 				"keyword.other"
 			],
 			"settings": {
@@ -303,7 +305,8 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#FFCB6B",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -315,10 +318,6 @@
 				"foreground": "#8BE9FD"
 			}
 		},
-
-
-
-
 		{
 			"name": "CSS Class and Support",
 			"scope": [
@@ -697,7 +696,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#FFCB6B00"
 			}
 		},
 		{
