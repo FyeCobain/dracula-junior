@@ -1,0 +1,35 @@
+{
+    "name": "dracula-junior",
+    "displayName": "Dracula Junior",
+    "description": "Dracula theme with other colors",
+    "version": "1.0.0",
+    "publisher": "FyeCobain",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FyeCobain/dracula-junior"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "dark theme",
+        "dracula",
+        "junior",
+        "dracula junior"
+    ],
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dracula Junior",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dracula Junior-color-theme.json"
+            }
+        ]
+    }
+}
