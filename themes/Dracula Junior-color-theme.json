@@ -133,7 +133,7 @@
 				"meta.structure.dictionary.json",
 				"constant.numeric.json.comments",
 				"invalid.illegal.expected-dictionary-separator.json.comments",
-				"string.quoted.double.json.comments", //to-do
+				"string.quoted.double.json.comments",
 				"punctuation.definition.constant.css", //sass hash symbol of hex colors
 				"constant.other.color.rgb-value.hex.css" //sass hex color values
 			],
