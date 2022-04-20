@@ -356,7 +356,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#58B3FC" //"#FF5370"
 			}
 		},
 		{
@@ -365,8 +365,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#58B3FC" //"#FF5370"
 			}
 		},
 		{
@@ -501,8 +500,7 @@
 				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#58B3FC" //"#FF5370"
 			}
 		},
 		{
