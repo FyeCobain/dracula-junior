@@ -17,6 +17,9 @@
         "junior",
         "dracula junior"
     ],
+    "scripts": {
+        "publish": "vsce publish --no-update-package-json"
+    },
     "engines": {
         "vscode": "^1.66.0"
     },
