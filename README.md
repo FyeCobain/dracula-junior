@@ -5,7 +5,7 @@ Just another version of [Dracula Official Theme](https://draculatheme.com/visual
 ![Screenshot.png](https://raw.githubusercontent.com/FyeCobain/dracula-junior/main/screenshot.png)
 
 ### Source code
-[GitHub ](https://github.com/FyeCobain/dracula-junior)
+[GitHub ](https://github.com/FyeCobain/dracula-junior.git)
 
 ### License
 [MIT](https://github.com/FyeCobain/dracula-junior/blob/main/LICENSE)

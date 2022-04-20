@@ -666,7 +666,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F78C6C"
+				"foreground": "#8BE9FD"
 			}
 		},
 		{
@@ -711,7 +711,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B00"
+				"foreground": "#FFCB6B"
 			}
 		},
 		{

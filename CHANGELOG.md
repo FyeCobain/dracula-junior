@@ -1,18 +1,16 @@
 # Change Log
 
-All notable changes to the "dracula-junior" extension will be documented in this file.
+### 1.1.3 (patch)
+- Minor Markdown improvement.
 
-#### 1.1.2
-##### patch
+### 1.1.2 (patch)
 - Minor JS syntax improvement.
 
-#### 1.1.1
-##### patch
+### 1.1.1 (patch)
 - Fixed invisible color of CSS/SASS methods.
 
-#### 1.1.0
-#####
+### 1.1.0 (minor)
 - Overall improvement.
 
-#### 1.0.0
+### 1.0.0 (release)
 - Initial release.
