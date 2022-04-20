@@ -1,4 +1,5 @@
-# Change Log
+### 1.1.4 (patch)
+- Improved bracket colors.
 
 ### 1.1.3 (patch)
 - Minor Markdown improvement.
