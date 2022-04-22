@@ -83,6 +83,7 @@
 		{
 			"name": "light blue",
 			"scope": [
+				"support.function.ahk",
 				"string" //Strings
 			],
 			"settings": {
@@ -117,9 +118,10 @@
 			"name": "green",
 			"scope": [
 				"entity.name.tag.css", //sass entities (h1, p, etc...)
-				"entity.name.function" //functions, variables as functions, etc...
+				"entity.name.function", //functions, variables as functions, etc...
 				//"meta.function-call",
 				//"entity"
+                
 			],
 			"settings": {
 				"foreground": "#50FA7B"
@@ -128,6 +130,10 @@
 		{
 			"name": "yellow",
 			"scope": [
+				"string.quoted.double.ahk",
+				"keyword.other.ahk",
+				"meta.function-call.generic.python",
+				"meta.function-call.python",
                 "string.quoted.double.json",
 				"meta.structure.dictionary.value.json",
 				"meta.structure.dictionary.json",
@@ -144,6 +150,8 @@
 		{
             "name": "fucsia",
 			"scope": [
+				"keyword.operator.arithmetic.ahk",
+				"punctuation.bracket.ahk",
 				"keyword.control", //import, from, etc.
                 "storage" //const, function, etc.
 			],

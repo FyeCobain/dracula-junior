@@ -1,3 +1,6 @@
+### 1.1.5 (patch)
+- Minor Python syntax improvement.
+
 ### 1.1.4 (patch)
 - Improved bracket colors.
 
