@@ -1,3 +1,6 @@
+### 1.1.6 (patch)
+- Improved title bar foreground.
+
 ### 1.1.5 (patch)
 - Minor Python syntax improvement.
 
