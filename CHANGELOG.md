@@ -1,3 +1,6 @@
+#### 1.2.2 (patch)
+- Small UI improvement.
+
 #### 1.2.1 (patch)
 - Small UI improvement.
 
