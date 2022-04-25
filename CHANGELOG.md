@@ -1,3 +1,6 @@
+#### 1.2.4 (patch)
+- Small terminal improvement.
+
 #### 1.2.3 (patch)
 - Small editor improvement.
 
