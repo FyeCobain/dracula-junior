@@ -2,12 +2,12 @@
     "name": "dracula-junior",
     "displayName": "Dracula Junior",
     "description": "Dracula theme with different colors",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "publisher": "FyeCobain",
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/FyeCobain/dracula-junior"
+        "url": "https://github.com/FyeCobain/dracula-junior.git"
     },
     "keywords": [
         "theme",
