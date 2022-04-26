@@ -1,3 +1,6 @@
+### 1.3.0 (minor)
+- Icon improved.
+
 #### 1.2.4 (patch)
 - Small terminal improvement.
 
