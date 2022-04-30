@@ -1,3 +1,7 @@
+### 1.4.0 (minor)
+- UI improvement.
+- Screnshot updated.
+
 #### 1.3.3 (patch)
 - Small UI improvement.
 
