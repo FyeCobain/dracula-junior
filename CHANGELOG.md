@@ -1,3 +1,6 @@
+### 1.5.0 (minor)
+- Icon improved.
+
 ### 1.4.0 (minor)
 - UI improvement.
 - Screnshot updated.
