@@ -3,6 +3,8 @@
 	"colors": {
 		"foreground": "#FFFFFF",
 		"scrollbarSlider.background": "#44475AB0",
+		"minimapSlider.hoverBackground": "#44475A70",
+		"minimapSlider.activeBackground": "#44475A70",
 		"window.activeBorder": "#6272A4A0",
 		"titleBar.activeBackground": "#21222C",
 		"titleBar.activeForeground": "#F8F8F2FC",
@@ -37,6 +39,8 @@
 		"statusBar.foreground":  "#F8F8F2FC",
 		"statusBar.noFolderBackground": "#191A21",
 		"statusBar.noFolderForeground": "#F8F8F280",
+		"statusBar.debuggingBackground": "#8BE9FD",
+		"statusBar.debuggingForeground": "#191A21",
 		"activityBar.inactiveForeground": "#F8F8F2FC",
 		"quickInput.background": "#21222CD0",
 		"quickInput.foreground": "#F8F8F2",
@@ -76,6 +80,7 @@
 		"list.activeSelectionBackground": "#313443",
 		"list.inactiveSelectionBackground": "#313443",
 		"list.inactiveFocusOutline": "#313443",
+		"list.errorForeground": "#FFCB6B",
 		"sideBarTitle.foreground": "#FFFFFF",
 		"sideBarSectionHeader.border": "#6272A4",
 		"sideBarSectionHeader.background": "#282A36",
@@ -89,9 +94,9 @@
 		"panelTitle.activeBorder": "#F8F8F200",
 		"panelTitle.inactiveForeground": "#58B3FCB0",
 		"gitDecoration.addedResourceForeground": "#50FA7B9B",
-		"gitDecoration.modifiedResourceForeground": "#8BE9FDEF",
+		"gitDecoration.modifiedResourceForeground": "#8BE9FD",
 		"gitDecoration.untrackedResourceForeground": "#50FA7BEF",
-		"gitDecoration.ignoredResourceForeground": "#6272A4"
+		"gitDecoration.ignoredResourceForeground": "#8BE9FDA0"
 	},
 	"tokenColors": [
 		{

@@ -1,4 +1,7 @@
-### 1.6.1 (minor)
+#### 1.6.2 (patch)
+- Small overall improvement.
+
+#### 1.6.1 (patch)
 - README links improved.
 
 ### 1.6.0 (minor)
