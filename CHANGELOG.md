@@ -1,3 +1,6 @@
+#### 1.6.9 (patch)
+- Small editor improvement.
+
 #### 1.6.8 (patch)
 - Small UI improvement.
 

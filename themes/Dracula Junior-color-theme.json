@@ -2,7 +2,9 @@
 	"name": "Dracula Junior",
 	"colors": {
 		"foreground": "#FFFFFF",
-		"scrollbarSlider.background": "#44475AB0",
+		"scrollbarSlider.background": "#44475A70",
+		"scrollbarSlider.hoverBackground": "#44475AB0",
+		"scrollbarSlider.activeBackground": "#44475AB0",
 		"minimapSlider.hoverBackground": "#44475A70",
 		"minimapSlider.activeBackground": "#44475A70",
 		"minimapGutter.modifiedBackground": "#8BE9FD",
