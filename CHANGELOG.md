@@ -1,3 +1,6 @@
+#### 1.6.3 (patch)
+- Small UI improvement.
+
 #### 1.6.2 (patch)
 - Small overall improvement.
 
