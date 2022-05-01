@@ -33,7 +33,7 @@
 		"tab.hoverBackground": "#8BE9FD25",
 		"tab.activeBorderTop": "#FF79C655",
 		"tab.activeForeground": "#FFFFFF",
-		"tab.inactiveForeground": "#F8F8F2A0",
+		"tab.inactiveForeground": "#7184bd",
 		"editorGroupHeader.tabsBackground": "#21222C",
 		"statusBar.background": "#191A21",
 		"statusBar.focusBorder": "#8BE9FD40",
