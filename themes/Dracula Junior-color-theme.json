@@ -97,7 +97,7 @@
 		"gitDecoration.addedResourceForeground": "#50FA7B9B",
 		"gitDecoration.modifiedResourceForeground": "#8BE9FD",
 		"gitDecoration.untrackedResourceForeground": "#50FA7BEF",
-		"gitDecoration.ignoredResourceForeground": "#8BE9FD90"
+		"gitDecoration.ignoredResourceForeground": "#8BE9FD80"
 	},
 	"tokenColors": [
 		{
