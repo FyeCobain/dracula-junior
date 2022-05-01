@@ -5,6 +5,7 @@
 		"scrollbarSlider.background": "#44475AB0",
 		"minimapSlider.hoverBackground": "#44475A70",
 		"minimapSlider.activeBackground": "#44475A70",
+		"minimapGutter.modifiedBackground": "#8BE9FD",
 		"window.activeBorder": "#6272A4A0",
 		"titleBar.activeBackground": "#21222C",
 		"titleBar.activeForeground": "#F8F8F2FC",
@@ -31,8 +32,8 @@
 		"tab.inactiveBackground": "#21222C",
 		"tab.hoverBackground": "#8BE9FD25",
 		"tab.activeBorderTop": "#FF79C655",
-		"tab.activeForeground": "#F8F8F2",
-		"tab.inactiveForeground": "#F8F8F2C0",
+		"tab.activeForeground": "#FFFFFF",
+		"tab.inactiveForeground": "#F8F8F2A0",
 		"editorGroupHeader.tabsBackground": "#21222C",
 		"statusBar.background": "#191A21",
 		"statusBar.focusBorder": "#8BE9FD40",
@@ -92,11 +93,11 @@
 		"panel.border": "#6272A4",
 		"panelTitle.activeForeground": "#F8F8F2",
 		"panelTitle.activeBorder": "#F8F8F200",
-		"panelTitle.inactiveForeground": "#8BE9FDB0",
+		"panelTitle.inactiveForeground": "#8BE9FDD0",
 		"gitDecoration.addedResourceForeground": "#50FA7B9B",
 		"gitDecoration.modifiedResourceForeground": "#8BE9FD",
 		"gitDecoration.untrackedResourceForeground": "#50FA7BEF",
-		"gitDecoration.ignoredResourceForeground": "#8BE9FDA0"
+		"gitDecoration.ignoredResourceForeground": "#8BE9FD90"
 	},
 	"tokenColors": [
 		{
