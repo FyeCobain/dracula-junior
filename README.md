@@ -8,7 +8,7 @@ Just another version of [Dracula Official Theme](https://draculatheme.com/visual
 [GitHub ](https://github.com/FyeCobain/dracula-junior.git)
 
 ### License
-[MIT](https://github.com/FyeCobain/dracula-junior/blob/main/LICENSE)
+[MIT](LICENSE)
 
 ### Attributions
 [Vampire icons created by Freepik](https://www.flaticon.com/free-icons/vampire)
