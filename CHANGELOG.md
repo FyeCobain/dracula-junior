@@ -1,3 +1,6 @@
+### 1.6.1 (minor)
+- README links improved.
+
 ### 1.6.0 (minor)
 - Icon improved.
 - README links improved.

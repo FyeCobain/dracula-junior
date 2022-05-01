@@ -2,7 +2,7 @@
 
 Just another version of [Dracula Official Theme](https://draculatheme.com/visual-studio-code) for Visual Studio Code. Not forked.
 
-[![screenshot.png](screenshot.png)](screenshot.png)
+[![screenshot.png](screenshot.png)](https://raw.githubusercontent.com/FyeCobain/dracula-junior/main/screenshot.png)
 
 ### Source code
 [GitHub ](https://github.com/FyeCobain/dracula-junior.git)
