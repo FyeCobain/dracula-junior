@@ -1,3 +1,6 @@
+### 1.7.0 (minor)
+- Editor improvement.
+
 #### 1.6.9 (patch)
 - Small editor improvement.
 
