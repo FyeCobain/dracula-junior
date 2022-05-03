@@ -1,3 +1,6 @@
+#### 1.7.1 (patch)
+- Small UI improvement.
+
 ### 1.7.0 (minor)
 - Editor improvement.
 
