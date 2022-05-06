@@ -8,7 +8,7 @@
 		"scrollbarSlider.activeBackground": "#44475AC0",
 		"scrollbar.shadow": "#191A21",
 		"editorOverviewRuler.border": "#8BE9FD10",
-		"editorOverviewRuler.selectionHighlightForeground": "#8BE9FD30",
+		"editorOverviewRuler.selectionHighlightForeground": "#8BE9FD90",
 		"minimapSlider.hoverBackground": "#44475A70",
 		"minimapSlider.activeBackground": "#44475A70",
 		"minimapGutter.modifiedBackground": "#8BE9FD",
