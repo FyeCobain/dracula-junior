@@ -31,6 +31,7 @@
 		"sideBar.foreground": "#FFFFFF",
 		"focusBorder": "#6D80B790",
 		"button.background": "#43475C",
+		"button.secondaryBackground": "#43475C",
 		"button.foreground": "#FFFFFF",
 		"extensionButton.prominentForeground": "#FFFFFF",
 		"extensionButton.prominentBackground": "#BD93F970",

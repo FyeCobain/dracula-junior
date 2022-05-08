@@ -1,3 +1,6 @@
+#### 1.7.6 (patch)
+- Small UI improvement.
+
 #### 1.7.5 (patch)
 - Small UI improvement.
 
