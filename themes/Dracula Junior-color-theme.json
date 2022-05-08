@@ -38,7 +38,7 @@
 		"tab.activeBackground": "#282A36",
 		"tab.inactiveBackground": "#21222C",
 		"tab.hoverBackground": "#8BE9FD25",
-		"tab.activeBorderTop": "#FF79C655",
+		"tab.activeBorderTop": "#FF79C640",
 		"tab.activeForeground": "#FFFFFF",
 		"tab.inactiveForeground": "#7284BA",
 		"tab.unfocusedActiveForeground": "#6D80B7",
@@ -83,7 +83,7 @@
 		"editorBracketHighlight.unexpectedBracket.foreground": "#FF79C6",
 		"input.background": "#282A36",
 		"input.foreground": "#F8F8F2",
-		"input.placeholderForeground": "#F8F8F2B8",
+		"input.placeholderForeground": "#7284BA",
 		"listFilterWidget.outline": "#F8F8F25C",
 		"listFilterWidget.noMatchesOutline": "#FF79C680",
 		"listFilterWidget.background": "#BD93F940",
@@ -119,7 +119,7 @@
 				"entity.name.tag"
 			],
 			"settings": {
-				"foreground": "#6d80b7"
+				"foreground": "#6D80b7"
 			}
 		},
 		{
