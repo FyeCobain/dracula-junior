@@ -1,3 +1,6 @@
+### 1.8.1 (minor)
+- Small UI and editor improvement.
+
 ### 1.8.0 (minor)
 - UI improvement.
 
