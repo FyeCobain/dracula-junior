@@ -113,7 +113,7 @@
 		"gitDecoration.untrackedResourceForeground": "#50FA7BEF",
 		"gitDecoration.ignoredResourceForeground": "#8BE9FD98",
 		"editorOverviewRuler.border": "#8BE9FD10",
-		"editorOverviewRuler.selectionHighlightForeground": "#FD982C",
+		"editorOverviewRuler.selectionHighlightForeground": "#FFB86C",
 		"editorOverviewRuler.addedForeground": "#50FA7B9B",
 		"editorOverviewRuler.modifiedForeground": "#8BE9FD",
 		"editorOverviewRuler.deletedForeground": "#C32E2E",

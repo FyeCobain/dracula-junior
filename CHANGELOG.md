@@ -1,4 +1,7 @@
-### 1.8.1 (minor)
+#### 1.8.2 (patch)
+- Small editor improvement.
+
+#### 1.8.1 (patch)
 - Small UI and editor improvement.
 
 ### 1.8.0 (minor)
