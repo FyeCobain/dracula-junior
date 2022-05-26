@@ -4,6 +4,7 @@
 		"foreground": "#FFFFFF",
 		"icon.foreground": "#FFFFFF",
 		"debugToolBar.background": "#313443",
+		"debugToolBar.border": "#6D80B7",
 		"scrollbarSlider.background": "#44475A90",
 		"scrollbarSlider.hoverBackground": "#44475AC0",
 		"scrollbarSlider.activeBackground": "#44475AC0",
@@ -61,13 +62,12 @@
 		"editor.foreground": "#F8F8F2",
 		"editorLineNumber.foreground": "#6272A4",
 		"editorCursor.foreground": "#F8F8F290",
-		"editor.selectionBackground": "#44475A",
-		"editor.inactiveSelectionBackground": "#44475A80",
+		"editor.hoverHighlightBackground": "#50FA7B70",
+		"editor.selectionHighlightBackground": "#BD93F990",
+		"editor.selectionBackground": "#8BE9FD50",
 		"editor.wordHighlightBackground": "#8BE9FD35",
 		"editor.wordHighlightStrongBackground": "#8BE9FD35",
 		"editor.symbolHighlightBackground": "#8BE9FD35",
-		"editor.hoverHighlightBackground": "#8BE9FD25",
-		"editor.selectionHighlightBackground": "#8BE9FD1F",
 		"editor.lineHighlightBorder": "#44475A70",
 		"editor.findMatchBackground": "#5E5F68",
 		"editor.findMatchHighlightBackground": "#424450",
@@ -129,7 +129,7 @@
 				"entity.name.tag"
 			],
 			"settings": {
-				"foreground": "#6D80b7"
+				"foreground": "#6D80B7"
 			}
 		},
 		{
