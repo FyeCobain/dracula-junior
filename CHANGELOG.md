@@ -1,3 +1,6 @@
+#### 1.8.4 (patch)
+- Small editor improvement.
+
 #### 1.8.3 (patch)
 - Small Overall improvement.
 
