@@ -55,6 +55,8 @@
 		"activityBar.inactiveForeground": "#F8F8F2FC",
 		"quickInput.background": "#21222CD0",
 		"quickInput.foreground": "#F8F8F2",
+		"pickerGroup.foreground": "#8BE9FD",
+		"pickerGroup.border": "#6272A450",
 		"editorWidget.background": "#282A36F0",
 		"editorWidget.border": "#6272A4",
 		"editorWidget.foreground": "#F8F8F2",

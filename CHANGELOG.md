@@ -1,3 +1,6 @@
+#### 1.8.5 (patch)
+- Small UI improvement.
+
 #### 1.8.4 (patch)
 - Small editor improvement.
 
