@@ -1,3 +1,6 @@
+#### 1.9.1 (patch)
+- Small editor improvement.
+
 ### 1.9.0 (minor)
 - Icon improved.
 - Local files paths improvement.
