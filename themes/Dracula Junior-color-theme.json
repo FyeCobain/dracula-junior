@@ -212,6 +212,7 @@
 		{
             "name": "fucsia",
 			"scope": [
+				"punctuation.separator.dictionary.key-value.json.comments",
 				"keyword.operator.arithmetic.ahk",
 				"punctuation.bracket.ahk",
 				"keyword.control", //import, from, etc.

@@ -1,3 +1,6 @@
+#### 1.9.2 (patch)
+- Small editor improvement.
+
 #### 1.9.1 (patch)
 - Small editor improvement.
 
