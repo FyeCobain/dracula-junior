@@ -1,5 +1,5 @@
 #### 1.9.4 (patch)
-- Small UI improvement.
+- Small UI and editor improvement.
 
 #### 1.9.3 (patch)
 - Small UI and editor improvement.
