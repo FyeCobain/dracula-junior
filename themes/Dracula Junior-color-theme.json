@@ -105,7 +105,7 @@
 		"dropdown.border": "#6D80B770",
 		"terminal.foreground": "#FFFFFF",
 		"terminalCursor.foreground": "#6272A4",
-		"panel.border": "#6272A4",
+		"panel.border": "#6272A450",
 		"panelTitle.activeForeground": "#F8F8F2",
 		"panelTitle.activeBorder": "#F8F8F200",
 		"panelTitle.inactiveForeground": "#7284BA",
