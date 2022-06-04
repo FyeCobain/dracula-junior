@@ -118,12 +118,12 @@
 		"gitDecoration.ignoredResourceForeground": "#8BE9FD98",
 		"editorOverviewRuler.border": "#8BE9FD10",
 		"editorOverviewRuler.selectionHighlightForeground": "#FFB86C",
-		"editorOverviewRuler.addedForeground": "#50FA7B9B",
-		"editorOverviewRuler.modifiedForeground": "#8BE9FD",
-		"editorOverviewRuler.deletedForeground": "#C32E2E",
-		"editorGutter.addedBackground": "#50FA7B9B",
-		"editorGutter.modifiedBackground": "#8BE9FD",
-		"editorGutter.deletedBackground": "#C32E2E"
+		"editorOverviewRuler.addedForeground": "#50FA7B85",
+		"editorOverviewRuler.modifiedForeground": "#8BE9FD90",
+		"editorOverviewRuler.deletedForeground": "#C32E2EF0",
+		"editorGutter.addedBackground": "#50FA7B85",
+		"editorGutter.modifiedBackground": "#8BE9FD90",
+		"editorGutter.deletedBackground": "#C32E2EF0"
 	},
 	"tokenColors": [
 		{
@@ -149,7 +149,7 @@
 			"name": "light blue",
 			"scope": [
 				"support.function.ahk",
-				"string" //Strings
+				"string"
 			],
 			"settings": {
 				"foreground": "#8BE9FD"
@@ -161,14 +161,14 @@
 				"keyword.other.unit", //css px, %, etc
 				"support.constant", //css properties
 				"variable", //All variables
-                "constant", //All constants
+				"constant", //All constants
 				"keyword.operator" //All operators
 			],
 			"settings": {
 				"foreground": "#BD93F9"
 			}
 		},
-        {
+		{
 			"name": "orange",
 			"scope": [
 				"variable.scss", //sass variables
@@ -179,7 +179,7 @@
 				"foreground": "#FFB86C"
 			}
 		},
-        {
+		{
 			"name": "green",
 			"scope": [
 				"entity.name.tag.css", //sass entities (h1, p, etc...)
@@ -195,11 +195,13 @@
 		{
 			"name": "yellow",
 			"scope": [
+				"variable.other.readwrite.alias.ts",
+				"variable.other.readwrite.ts",
 				"string.quoted.double.ahk",
 				"keyword.other.ahk",
 				"meta.function-call.generic.python",
 				"meta.function-call.python",
-                "string.quoted.double.json",
+				"string.quoted.double.json",
 				"meta.structure.dictionary.value.json",
 				"meta.structure.dictionary.json",
 				"constant.numeric.json.comments",
@@ -213,13 +215,13 @@
 			}
 		},
 		{
-            "name": "fucsia",
+			"name": "fucsia",
 			"scope": [
 				"punctuation.separator.dictionary.key-value.json.comments",
 				"keyword.operator.arithmetic.ahk",
 				"punctuation.bracket.ahk",
 				"keyword.control", //import, from, etc.
-                "storage" //const, function, etc.
+				"storage" //const, function, etc.
 			],
 			"settings": {
 				"foreground": "#FF79C6"
@@ -228,9 +230,7 @@
 		{
 			"name": "white",
 			"scope": [
-				//"meta.function variable",
-				//"meta.block variable"
-				"punctuation", //punctuation
+				"punctuation"
 			],
 			"settings": {
 				"foreground": "#F8F8F2"
