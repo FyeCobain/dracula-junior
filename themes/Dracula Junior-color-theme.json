@@ -139,6 +139,7 @@
 		{
 			"name": "dark blue",
 			"scope": [
+				"storage.type.class.ts"
 			],
 			"settings": {
 				"foreground": "#58B3FC"

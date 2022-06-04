@@ -1,3 +1,6 @@
+#### 1.9.5 (patch)
+- Small editor improvement.
+
 #### 1.9.4 (patch)
 - Small UI and editor improvement.
 
