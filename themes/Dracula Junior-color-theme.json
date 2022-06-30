@@ -148,6 +148,7 @@
 		{
 			"name": "light blue",
 			"scope": [
+				"keyword.operator.assignment.ts",
 				"support.function.ahk",
 				"string"
 			],
@@ -183,10 +184,9 @@
 			"name": "green",
 			"scope": [
 				"entity.name.tag.css", //sass entities (h1, p, etc...)
-				"entity.name.function", //functions, variables as functions, etc...
+				"entity.name.function" //functions, variables as functions, etc...
 				//"meta.function-call",
 				//"entity"
-                
 			],
 			"settings": {
 				"foreground": "#50FA7B"
