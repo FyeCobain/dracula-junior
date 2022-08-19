@@ -1,3 +1,7 @@
+### 1.10.0 (minor)
+- Phyton and AutoHotkey improvement.
+- Dile structure modified.
+
 #### 1.9.7 (patch)
 - Small editor improvement.
 

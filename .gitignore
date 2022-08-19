@@ -3,4 +3,3 @@ node_modules
 vsc-extension-quickstart.md
 .vscodeignore
 private/
-.vscode/settings.json

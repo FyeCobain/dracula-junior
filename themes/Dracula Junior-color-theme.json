@@ -139,10 +139,15 @@
 		{
 			"name": "dark blue",
 			"scope": [
-				"storage.type.class.ts"
+				"storage.type.class.ts",
+				"variable.def.ahk",
+				"keyword.control.import.python",
+				"storage.type.function.python",
+				"storage.modifier.declaration.python",
+				"storage.type.class.python"
 			],
 			"settings": {
-				"foreground": "#58B3FC"
+				"foreground": "#58B3FC",
 			}
 		},
 		{
@@ -198,7 +203,6 @@
 				"variable.other.readwrite.alias.ts",
 				"variable.other.readwrite.ts",
 				"string.quoted.double.ahk",
-				"keyword.other.ahk",
 				"meta.function-call.generic.python",
 				"meta.function-call.python",
 				"string.quoted.double.json",
@@ -221,6 +225,7 @@
 				"keyword.operator.arithmetic.ahk",
 				"punctuation.bracket.ahk",
 				"keyword.control", //import, from, etc.
+				"entity.name.type.class.python",
 				"storage" //const, function, etc.
 			],
 			"settings": {
@@ -251,7 +256,7 @@
 			"name": "Variables",
 			"scope": [
 				//"variable",
-				"string constant.other.placeholder"
+				"string constant.other.placeholder",
 			],
 			"settings": {
 				"foreground": "#FFB86C"
