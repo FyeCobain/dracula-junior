@@ -139,12 +139,22 @@
 		{
 			"name": "dark blue",
 			"scope": [
-				"storage.type.class.ts",
+				"variable.other.php",
 				"variable.def.ahk",
 				"keyword.control.import.python",
 				"storage.type.function.python",
 				"storage.modifier.declaration.python",
-				"storage.type.class.python"
+				"storage.type.class.python",
+				"keyword.control.import.js",
+				"keyword.control.import.ts",
+				"keyword.control.from.js",
+				"keyword.control.from.ts",
+				"storage.type.js",
+				"storage.type.ts",
+				"storage.type.function.js",
+				"storage.type.function.ts",
+				"storage.type.class.js",
+				"storage.type.class.ts",
 			],
 			"settings": {
 				"foreground": "#58B3FC",
@@ -153,6 +163,13 @@
 		{
 			"name": "light blue",
 			"scope": [
+				"keyword.other.namespace.php",
+				"entity.name.type.namespace.php",
+				"variable.language.this.php",
+				"entity.name.type.class.php",
+				"entity.name.type.class.js",
+				"entity.name.type.class.ts",
+				"keyword.operator.assignment.js",
 				"keyword.operator.assignment.ts",
 				"support.function.ahk",
 				"string"
@@ -164,6 +181,9 @@
 		{
 			"name": "purple",
 			"scope": [
+				"storage.type.function.php",
+				"storage.type.class.php",
+				"storage.modifier.php",
 				"keyword.other.unit", //css px, %, etc
 				"support.constant", //css properties
 				"variable", //All variables
@@ -188,6 +208,8 @@
 		{
 			"name": "green",
 			"scope": [
+				"entity.name.function.php",
+				"support.function.constructor.php",
 				"entity.name.tag.css", //sass entities (h1, p, etc...)
 				"entity.name.function" //functions, variables as functions, etc...
 				//"meta.function-call",
@@ -200,6 +222,9 @@
 		{
 			"name": "yellow",
 			"scope": [
+				"string.quoted.double.php",
+				"keyword.other.sql",
+				"keyword.other.DML.sql",
 				"variable.other.readwrite.alias.ts",
 				"variable.other.readwrite.ts",
 				"string.quoted.double.ahk",

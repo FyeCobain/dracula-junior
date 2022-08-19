@@ -1,3 +1,7 @@
+### 1.11.0 (minor)
+- PHP and JS/TS improvement.
+- Screnshot updated.
+
 #### 1.10.1 (patch)
 - Small CHANGELOG.md improvement.
 
