@@ -1,6 +1,9 @@
+#### 1.10.1 (patch)
+- Small CHANGELOG.md improvement.
+
 ### 1.10.0 (minor)
 - Phyton and AutoHotkey improvement.
-- Dile structure modified.
+- .vscode files commited.
 
 #### 1.9.7 (patch)
 - Small editor improvement.
