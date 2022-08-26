@@ -1,3 +1,6 @@
+### 1.12.0 (minor)
+- Phyton improvement.
+
 ### 1.11.0 (minor)
 - PHP and JS/TS improvement.
 - Screnshot updated.
