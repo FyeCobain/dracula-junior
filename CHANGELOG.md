@@ -1,3 +1,6 @@
+### 1.13.0 (minor)
+- Screnshot updated.
+
 #### 1.12.1 (patch)
 - Small color improvement.
 
