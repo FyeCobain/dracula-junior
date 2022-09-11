@@ -1,3 +1,6 @@
+#### 1.12.1 (patch)
+- Small color improvement.
+
 ### 1.12.0 (minor)
 - Phyton improvement.
 
