@@ -1,6 +1,6 @@
 # Dracula Junior
 
-Just another version of [Dracula Official Theme](https://draculatheme.com/visual-studio-code) for Visual Studio Code. Not forked.
+Just another version of [Dracula Official Theme](https://draculatheme.com/visual-studio-code) for Visual Studio Code. Not a fork.
 
 [![screenshot.png](./screenshot.png)](https://raw.githubusercontent.com/FyeCobain/dracula-junior/main/screenshot.png)
 

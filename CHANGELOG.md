@@ -1,3 +1,6 @@
+#### 1.13.1 (patch)
+- Small UI improvement and README.md update.
+
 ### 1.13.0 (minor)
 - Screnshot updated.
 
