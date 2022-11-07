@@ -39,6 +39,7 @@
 		"extensionButton.prominentForeground": "#FFFFFF",
 		"extensionButton.prominentBackground": "#69598B",
 		"extensionButton.prominentHoverBackground": "#BD93F9",
+		"tab.border": "#313443",
 		"tab.activeBackground": "#282A36",
 		"tab.inactiveBackground": "#21222C",
 		"tab.hoverBackground": "#8BE9FD25",

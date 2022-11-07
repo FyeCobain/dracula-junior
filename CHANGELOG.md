@@ -1,3 +1,6 @@
+#### 1.13.2 (patch)
+- Small UI improvement.
+
 #### 1.13.1 (patch)
 - Small UI improvement and README.md update.
 
