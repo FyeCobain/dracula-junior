@@ -1,3 +1,6 @@
+#### 1.13.4 (patch)
+- Small UI improvement.
+
 #### 1.13.3 (patch)
 - Screnshot updated.
 
