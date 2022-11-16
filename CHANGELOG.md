@@ -1,3 +1,6 @@
+#### 1.13.5 (patch)
+- Small terminal background change.
+
 #### 1.13.4 (patch)
 - Small UI improvement.
 
