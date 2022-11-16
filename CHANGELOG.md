@@ -1,3 +1,6 @@
+#### 1.13.6 (patch)
+- Small code fix.
+
 #### 1.13.5 (patch)
 - Small terminal background change.
 
