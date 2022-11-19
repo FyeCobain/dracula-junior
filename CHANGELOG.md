@@ -1,3 +1,6 @@
+#### 1.13.8 (patch)
+- Small UI improvement.
+
 #### 1.13.7 (patch)
 - Small UI improvement.
 
