@@ -1,3 +1,6 @@
+#### 1.13.9 (patch)
+- Terminal cursor foreground changed.
+
 #### 1.13.8 (patch)
 - Small UI improvement.
 
