@@ -1,3 +1,6 @@
+#### 1.13.10 (patch)
+- UI hover backgrounds improved.
+
 #### 1.13.9 (patch)
 - Terminal cursor foreground changed.
 
