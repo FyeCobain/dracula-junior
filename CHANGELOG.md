@@ -1,3 +1,6 @@
+#### 1.13.12 (patch)
+- Small PHP improvement.
+
 #### 1.13.11 (patch)
 - Small UI color improvement.
 

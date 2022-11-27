@@ -258,6 +258,7 @@
 		{
 			"name": "fucsia",
 			"scope": [
+				"constant.language.php",
 				"punctuation.separator.dictionary.key-value.json.comments",
 				"keyword.operator.arithmetic.ahk",
 				"punctuation.bracket.ahk",
