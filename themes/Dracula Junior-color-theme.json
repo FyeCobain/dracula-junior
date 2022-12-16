@@ -123,6 +123,8 @@
 		"terminal.ansiBrightYellow": "#F1FA8C",
 		"terminal.ansiMagenta": "#FF79C6",
 		"terminal.ansiBrightMagenta": "#F192DF",
+		"terminal.ansiBlue": "#D6ACFF",
+		"terminal.ansiGreen": "#50FA7B",
 		"panel.border": "#6272A450",
 		"panelTitle.activeForeground": "#F8F8F2",
 		"panelTitle.activeBorder": "#F8F8F200",
