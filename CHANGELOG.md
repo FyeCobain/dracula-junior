@@ -1,3 +1,6 @@
+#### 1.13.13 (patch)
+- Error / warning color improvement.
+
 #### 1.13.12 (patch)
 - Small PHP improvement.
 
