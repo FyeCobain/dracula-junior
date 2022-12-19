@@ -1,3 +1,6 @@
+#### 1.13.16 (patch)
+- Terminal ansi colors improvement.
+
 #### 1.13.15 (patch)
 - Terminal ansi colors improvement.
 
