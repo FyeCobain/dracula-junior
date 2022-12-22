@@ -122,10 +122,17 @@
 		"terminal.ansiYellow": "#F1FA8C",
 		"terminal.ansiBrightYellow": "#F1FA8C",
 		"terminal.ansiMagenta": "#FF79C6",
-		"terminal.ansiBrightMagenta": "#F192DF",
+		"terminal.ansiBrightMagenta": "#fb90dc",
 		"terminal.ansiBlue": "#BD93F9",
 		"terminal.ansiBrightBlue": "#D6ACFF",
 		"terminal.ansiGreen": "#50FA7B",
+		"terminal.ansiBrightGreen": "#50FA7B",
+		"terminal.ansiWhite": "#FFFFFF",
+		"terminal.ansiBrightWhite": "#F8F8F2",
+		"terminal.ansiRed": "#FF0000",
+		"terminal.ansiBrightRed": "#FF6E6E",
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiBrightBlack": "#6272A4",
 		"panel.border": "#6272A450",
 		"panelTitle.activeForeground": "#F8F8F2",
 		"panelTitle.activeBorder": "#F8F8F200",
@@ -148,7 +155,7 @@
 		{
 			"name": "deep blue",
 			"scope": [
-				"comment", //Comments
+				"comment",
 				"entity.name.tag"
 			],
 			"settings": {
@@ -205,11 +212,11 @@
 				"storage.type.function.php",
 				"storage.type.class.php",
 				"storage.modifier.php",
-				"keyword.other.unit", //css px, %, etc
-				"support.constant", //css properties
-				"variable", //All variables
-				"constant", //All constants
-				"keyword.operator" //All operators
+				"keyword.other.unit",
+				"support.constant",
+				"variable",
+				"constant",
+				"keyword.operator"
 			],
 			"settings": {
 				"foreground": "#BD93F9"
@@ -218,9 +225,9 @@
 		{
 			"name": "orange",
 			"scope": [
-				"variable.scss", //sass variables
-				"variable.other.readwrite", //imported entities
-				"variable.parameter" //Variables as parameters
+				"variable.scss",
+				"variable.other.readwrite",
+				"variable.parameter"
 			]
 			,"settings": {
 				"foreground": "#FFB86C"
@@ -232,10 +239,8 @@
 				"meta.function-call.generic.python",
 				"entity.name.function.php",
 				"support.function.constructor.php",
-				"entity.name.tag.css", //sass entities (h1, p, etc...)
-				"entity.name.function" //functions, variables as functions, etc...
-				//"meta.function-call",
-				//"entity"
+				"entity.name.tag.css",
+				"entity.name.function"
 			],
 			"settings": {
 				"foreground": "#50FA7B"
@@ -257,8 +262,8 @@
 				"constant.numeric.json.comments",
 				"invalid.illegal.expected-dictionary-separator.json.comments",
 				"string.quoted.double.json.comments",
-				"punctuation.definition.constant.css", //sass hash symbol of hex colors
-				"constant.other.color.rgb-value.hex.css" //sass hex color values
+				"punctuation.definition.constant.css",
+				"constant.other.color.rgb-value.hex.css"
 			],
 			"settings": {
 				"foreground": "#F1FA8C"
@@ -271,8 +276,8 @@
 				"punctuation.separator.dictionary.key-value.json.comments",
 				"keyword.operator.arithmetic.ahk",
 				"punctuation.bracket.ahk",
-				"keyword.control", //import, from, etc.
-				"storage" //const, function, etc.
+				"keyword.control",
+				"storage"
 			],
 			"settings": {
 				"foreground": "#FF79C6"
@@ -290,7 +295,6 @@
 		{
 			"name": "Comment",
 			"scope": [
-				//"comment",
 				"punctuation.definition.comment"
 			],
 			"settings": {
@@ -301,7 +305,6 @@
 		{
 			"name": "Variables",
 			"scope": [
-				//"variable",
 				"string constant.other.placeholder",
 			],
 			"settings": {
@@ -320,13 +323,8 @@
 		{
 			"name": "Invalid",
 			"scope": [
-				//"invalid",
-				//"invalid.illegal"
 			],
 			"settings": {
-				//"foreground": "#FF5370EC",
-				//"foreground": "#FFCB6B",
-				//"fontStyle": "italic strikethrough"
 			}
 		},
 		{
@@ -343,21 +341,14 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				//"keyword.control",
-				//"constant.other.color", //sass color values
-				//"punctuation",
 				"meta.tag",
-				//"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
-				//"punctuation.definition.tag.html",
-				//"punctuation.definition.tag.begin.html",
-				//"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground":"#58B3FC" // Changed from 58B3FC
+				"foreground":"#58B3FC"
 			}
 		},
 		{
@@ -374,8 +365,6 @@
 		{
 			"name": "Function, Special Method",
 			"scope": [
-				//"entity.name.function",
-				//"meta.function-call",
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method"
@@ -387,7 +376,6 @@
 		{
 			"name": "Block Level Variables",
 			"scope": [
-				//"meta.block variable.other"
 			],
 			"settings": {
 				"foreground": "#FF79C6"
@@ -400,18 +388,12 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#F8F8F2" // Changed from BD93F9
+				"foreground": "#F8F8F2"
 			}
 		},
 		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
-				/*"constant.numeric",
-				"constant.language",
-				"support.constant",
-				"constant.character",
-				"constant.escape",
-				"variable.parameter",*/
 				"keyword.other"
 			],
 			"settings": {
@@ -421,7 +403,6 @@
 		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
-				//"string",
 				"constant.other.symbol",
 				"constant.other.key",
 				"entity.other.inherited-class",
@@ -430,7 +411,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#8BE9FD" // Changed from F1FA8C and 58B3FC
+				"foreground": "#8BE9FD"
 			}
 		},
 		{
@@ -481,7 +462,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#58B3FC" //"#FF5370"
+				"foreground": "#58B3FC"
 			}
 		},
 		{
@@ -490,7 +471,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#58B3FC" //"#FF5370"
+				"foreground": "#58B3FC"
 			}
 		},
 		{
@@ -625,7 +606,7 @@
 				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#58B3FC" //"#FF5370"
+				"foreground": "#58B3FC"
 			}
 		},
 		{
@@ -643,7 +624,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#8BE9FD" //"#FFCB6B"
+				"foreground": "#8BE9FD"
 			}
 		},
 		{

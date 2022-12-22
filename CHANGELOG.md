@@ -1,3 +1,8 @@
+### 1.14.0 (minor)
+- json file comments removed.
+- README.md updated.
+- Terminal ansi colors improvement.
+
 #### 1.13.16 (patch)
 - Terminal ansi colors improvement.
 
