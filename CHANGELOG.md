@@ -1,3 +1,6 @@
+#### 1.14.1 (patch)
+- Small UI improvement.
+
 ### 1.14.0 (minor)
 - json file comments removed.
 - README.md updated.

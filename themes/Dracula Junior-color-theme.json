@@ -2,7 +2,7 @@
 	"name": "Dracula Junior",
 	"colors": {
 		"foreground": "#FFFFFF",
-		"icon.foreground": "#FFFFFF",
+		"icon.foreground": "#C1C1C8",
 		"debugToolBar.background": "#313443",
 		"debugToolBar.border": "#8BE9FDE0",
 		"scrollbarSlider.background": "#44475A90",
@@ -19,7 +19,7 @@
 		"menu.background":"#313443",
 		"menu.foreground": "#F8F8F2",
 		"menu.selectionBackground": "#44475A",
-		"menu.separatorBackground": "#6d80b7",
+		"menu.separatorBackground": "#6D80B7",
 		"welcomePage.tileBackground": "#313443",
 		"welcomePage.tileHoverBackground": "#43475CA0",
 		"textLink.foreground": "#58B3FC",
@@ -94,6 +94,7 @@
 		"input.background": "#282A36",
 		"input.foreground": "#F8F8F2",
 		"input.placeholderForeground": "#7284BA",
+		"toolbar.hoverBackground": "#6D80B780",
 		"listFilterWidget.outline": "#F8F8F25C",
 		"listFilterWidget.noMatchesOutline": "#FF79C680",
 		"listFilterWidget.background": "#BD93F940",
@@ -101,20 +102,19 @@
 		"list.hoverBackground": "#6D80B745",
 		"list.focusHighlightForeground": "#8BE9FD",
 		"list.highlightForeground": "#8BE9FD",
-		"toolbar.hoverBackground": "#6D80B780",
 		"list.activeSelectionBackground": "#313443",
 		"list.inactiveSelectionBackground": "#313443",
 		"list.inactiveFocusOutline": "#313443",
 		"list.dropBackground": "#F8F8F220",
 		"list.errorForeground": "#F45F5F",
-		"editorError.foreground": "#F45F5F",
 		"list.warningForeground": "#FFB86C",
+		"editorError.foreground": "#F45F5F",
 		"editorWarning.foreground": "#8BE9FD",
 		"editorOverviewRuler.errorForeground": "#FF846B",
 		"sideBarTitle.foreground": "#FFFFFF",
 		"sideBarSectionHeader.border": "#6272A450",
 		"sideBarSectionHeader.background": "#282A36",
-		"badge.background": "#3d4153",
+		"badge.background": "#3D4153",
 		"dropdown.background": "#313443",
 		"dropdown.border": "#6D80B770",
 		"terminal.foreground": "#FFFFFF",
@@ -122,7 +122,7 @@
 		"terminal.ansiYellow": "#F1FA8C",
 		"terminal.ansiBrightYellow": "#F1FA8C",
 		"terminal.ansiMagenta": "#FF79C6",
-		"terminal.ansiBrightMagenta": "#fb90dc",
+		"terminal.ansiBrightMagenta": "#FB90DC",
 		"terminal.ansiBlue": "#BD93F9",
 		"terminal.ansiBrightBlue": "#D6ACFF",
 		"terminal.ansiGreen": "#50FA7B",
@@ -272,10 +272,10 @@
 		{
 			"name": "fucsia",
 			"scope": [
-				"constant.language.php",
-				"punctuation.separator.dictionary.key-value.json.comments",
 				"keyword.operator.arithmetic.ahk",
 				"punctuation.bracket.ahk",
+				"constant.language.php",
+				"punctuation.separator.dictionary.key-value.json.comments",
 				"keyword.control",
 				"storage"
 			],
@@ -317,7 +317,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -491,7 +491,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#000000"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b1d875"
+				"foreground": "#B1D875"
 			}
 		},
 		{
