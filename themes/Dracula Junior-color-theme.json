@@ -2,7 +2,7 @@
 	"name": "Dracula Junior",
 	"colors": {
 		"foreground": "#FFFFFF",
-		"icon.foreground": "#C1C1C8",
+		"icon.foreground": "#C1C1C7",
 		"debugToolBar.background": "#313443",
 		"debugToolBar.border": "#8BE9FDE0",
 		"scrollbarSlider.background": "#44475A90",
