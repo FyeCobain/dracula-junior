@@ -193,6 +193,7 @@
 				"keyword.other.namespace.php",
 				"entity.name.type.namespace.php",
 				"variable.language.this.php",
+				"support.class.php",
 				"entity.name.type.class.php",
 				"entity.name.type.class.js",
 				"entity.name.type.class.ts",
@@ -250,6 +251,7 @@
 			"name": "yellow",
 			"scope": [
 				"entity.name.type.class.python",
+				"string.quoted.single.php",
 				"string.quoted.double.php",
 				"keyword.other.sql",
 				"keyword.other.DML.sql",

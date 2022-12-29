@@ -1,3 +1,6 @@
+#### 1.14.3 (patch)
+- Small PHP improvement.
+
 #### 1.14.2 (patch)
 - Small UI improvement.
 
