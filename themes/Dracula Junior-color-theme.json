@@ -2,6 +2,7 @@
 	"name": "Dracula Junior",
 	"colors": {
 		"foreground": "#FFFFFF",
+		"breadcrumb.foreground": "#6D80B7",
 		"icon.foreground": "#C1C1C7",
 		"debugToolBar.background": "#313443",
 		"debugToolBar.border": "#8BE9FDE0",
@@ -155,7 +156,6 @@
 		{
 			"name": "deep blue",
 			"scope": [
-				"comment",
 				"entity.name.tag"
 			],
 			"settings": {
@@ -297,6 +297,7 @@
 		{
 			"name": "Comment",
 			"scope": [
+				"comment",
 				"punctuation.definition.comment"
 			],
 			"settings": {
