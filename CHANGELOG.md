@@ -1,3 +1,6 @@
+#### 1.16.1 (patch)
+- Screnshot updated.
+
 ### 1.16.0 (minor)
 - Screnshot updated.
 - Small PHP improvement.
