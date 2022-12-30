@@ -1,3 +1,7 @@
+### 1.16.0 (minor)
+- Screnshot updated.
+- Small PHP improvement.
+
 ### 1.15.0 (minor)
 - Overall improvement.
 

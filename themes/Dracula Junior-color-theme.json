@@ -190,10 +190,12 @@
 		{
 			"name": "light blue",
 			"scope": [
-				"keyword.other.namespace.php",
 				"entity.name.type.namespace.php",
 				"variable.language.this.php",
 				"support.class.php",
+				"support.other.namespace.use.php",
+				"meta.use.php",
+				"support.other.namespace.php",
 				"entity.name.type.class.php",
 				"entity.name.type.class.js",
 				"entity.name.type.class.ts",
@@ -423,9 +425,6 @@
 				"entity.name",
 				"support.type",
 				"support.class",
-				"support.other.namespace.use.php",
-				"meta.use.php",
-				"support.other.namespace.php",
 				"markup.changed.git_gutter",
 				"support.type.sys-types"
 			],
