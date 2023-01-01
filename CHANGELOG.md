@@ -1,3 +1,6 @@
+#### 1.16.4 (patch)
+- Terminal ansi colors improvement.
+
 #### 1.16.3 (patch)
 - Screnshot updated.
 
