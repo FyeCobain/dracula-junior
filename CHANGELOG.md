@@ -1,3 +1,7 @@
+#### 1.16.2 (patch)
+- Small UI improvement.
+- Small editor improvement.
+
 #### 1.16.1 (patch)
 - Screnshot updated.
 
