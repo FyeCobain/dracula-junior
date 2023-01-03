@@ -1,3 +1,6 @@
+#### 1.16.5 (patch)
+- LICENSE year updated.
+
 #### 1.16.4 (patch)
 - Terminal ansi colors improvement.
 
