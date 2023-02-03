@@ -13,7 +13,8 @@
 		"minimapSlider.hoverBackground": "#44475A90",
 		"minimapSlider.activeBackground": "#44475A90",
 		"minimapGutter.modifiedBackground": "#8BE9FD",
-		"window.activeBorder": "#6272A4A0",
+		"window.activeBorder": "#58B3FC",
+		"window.inactiveBorder": "#58B3FC",
 		"titleBar.activeBackground": "#21222C",
 		"titleBar.activeForeground": "#F8F8F2FC",
 		"titleBar.inactiveForeground": "#F8F8F2FC",
@@ -119,7 +120,7 @@
 		"dropdown.background": "#313443",
 		"dropdown.border": "#6D80B770",
 		"terminal.foreground": "#FFFFFF",
-		"terminalCursor.foreground": "#FF79C6",
+		"terminalCursor.foreground": "#58B3FC",
 		"terminal.ansiYellow": "#F1FA8C",
 		"terminal.ansiBrightYellow": "#F1FA8C",
 		"terminal.ansiMagenta": "#FF79C6",
@@ -254,6 +255,7 @@
 		{
 			"name": "yellow",
 			"scope": [
+				"support.class.ahk2",
 				"entity.name.type.class.python",
 				"string.quoted.single.php",
 				"string.quoted.double.php",
@@ -348,6 +350,8 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
+				"constant.language.ahk2",
+				"keyword.other.operator.ahk2",
 				"meta.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.section.embedded",

@@ -1,3 +1,8 @@
+### 1.17.0 (minor)
+- Window border improvement.
+- Terminal cursor color changed.
+- AutoHotkey v2 improvement.
+
 #### 1.16.8 (patch)
 - Small UI improvement.
 
