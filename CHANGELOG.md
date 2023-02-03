@@ -1,3 +1,6 @@
+#### 1.17.1 (patch)
+- Small UI improvement.
+
 ### 1.17.0 (minor)
 - Window border improvement.
 - Terminal cursor color changed.
