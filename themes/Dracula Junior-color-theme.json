@@ -280,6 +280,7 @@
 		{
 			"name": "fucsia",
 			"scope": [
+				"hotstringline.ahk2",
 				"keyword.operator.arithmetic.ahk",
 				"punctuation.bracket.ahk",
 				"constant.language.php",

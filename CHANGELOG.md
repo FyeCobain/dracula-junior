@@ -1,3 +1,6 @@
+#### 1.17.2 (patch)
+- Small AutoHotkey v2 improvement.
+
 #### 1.17.1 (patch)
 - Small UI improvement.
 
