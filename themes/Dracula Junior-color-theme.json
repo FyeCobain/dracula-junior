@@ -184,7 +184,7 @@
 				"storage.type.function.js",
 				"storage.type.function.ts",
 				"storage.type.class.js",
-				"storage.type.class.ts",
+				"storage.type.class.ts"
 			],
 			"settings": {
 				"foreground": "#58B3FC",
@@ -200,6 +200,9 @@
 				"meta.use.php",
 				"support.other.namespace.php",
 				"entity.name.type.class.php",
+				"meta.property-list.scss",
+				"punctuation.definition.keyword.scss",
+				"punctuation.definition.interpolation.begin.bracket.curly.scss",
 				"entity.name.type.class.js",
 				"entity.name.type.class.ts",
 				"keyword.operator.assignment.js",

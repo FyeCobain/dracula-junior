@@ -1,3 +1,6 @@
+#### 1.17.3 (patch)
+- Small .scss improvement.
+
 #### 1.17.2 (patch)
 - Small AutoHotkey v2 improvement.
 
