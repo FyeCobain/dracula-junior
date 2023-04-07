@@ -1,3 +1,7 @@
+### 1.18.0 (minor)
+- Blade Templates improvement.
+- UI improvement.
+
 #### 1.17.3 (patch)
 - Small .scss improvement.
 

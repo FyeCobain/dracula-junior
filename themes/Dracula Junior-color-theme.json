@@ -6,12 +6,12 @@
 		"icon.foreground": "#C1C1C7",
 		"debugToolBar.background": "#313443",
 		"debugToolBar.border": "#8BE9FDE0",
-		"scrollbarSlider.background": "#44475A90",
+		"scrollbarSlider.background": "#44475AE0",
 		"scrollbarSlider.hoverBackground": "#44475AC0",
 		"scrollbarSlider.activeBackground": "#44475AC0",
 		"scrollbar.shadow": "#191A21",
-		"minimapSlider.hoverBackground": "#44475A90",
-		"minimapSlider.activeBackground": "#44475A90",
+		"minimapSlider.hoverBackground": "#44475AC0",
+		"minimapSlider.activeBackground": "#44475AC0",
 		"minimapGutter.modifiedBackground": "#8BE9FD",
 		"window.activeBorder": "#58B3FC",
 		"window.inactiveBorder": "#58B3FC",
@@ -29,7 +29,7 @@
 		"activityBar.foreground": "#8BE9FD",
 		"activityBar.inactiveForeground": "#FFFFFF",
 		"activityBar.background": "#282A36",
-		"activityBar.activeBorder": "#FF79C680",
+		"activityBar.activeBorder": "#FF79C670",
 		"activityBarBadge.foreground": "#F8F8F2",
 		"activityBarBadge.background": "#69598B50",
 		"sideBar.background": "#21222C",
@@ -184,7 +184,10 @@
 				"storage.type.function.js",
 				"storage.type.function.ts",
 				"storage.type.class.js",
-				"storage.type.class.ts"
+				"storage.type.class.ts",
+				"keyword.blade",
+				"support.function.construct.begin.blade",
+				"support.function.construct.end.blade"
 			],
 			"settings": {
 				"foreground": "#58B3FC",
@@ -298,7 +301,8 @@
 		{
 			"name": "white",
 			"scope": [
-				"punctuation"
+				"punctuation",
+				"text.html.php.blade"
 			],
 			"settings": {
 				"foreground": "#F8F8F2"
