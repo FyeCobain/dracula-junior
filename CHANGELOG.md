@@ -1,3 +1,6 @@
+#### 1.18.2 (patch)
+- Inline SQL improvement.
+
 #### 1.18.1 (patch)
 - ini and shell files improvement.
 

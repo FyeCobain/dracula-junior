@@ -305,7 +305,11 @@
 				"storage",
 				"variable.other.normal.shell",
 				"punctuation.separator.key-value.ini",
-				"keyword.operator.assignment.shell"
+				"keyword.operator.assignment.shell",
+				"keyword.sql",
+				"keyword.other.DML.sql",
+				"punctuation.definition.string.begin.sql",
+				"punctuation.definition.string.end.sql"
 			],
 			"settings": {
 				"foreground": "#FF79C6"
