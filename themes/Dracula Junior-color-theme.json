@@ -211,7 +211,15 @@
 				"keyword.operator.assignment.js",
 				"keyword.operator.assignment.ts",
 				"support.function.ahk",
-				"string"
+				"string.quoted.single.ini",
+				"string.quoted.double.ini",
+				"string.unquoted.argument.shell",
+				"string.quoted.single.shell",
+				"string.quoted.double.shell",
+				"constant.numeric.shell",
+				"constant.numeric.decimal.shell",
+				"string",
+				"source.ini",
 			],
 			"settings": {
 				"foreground": "#8BE9FD"
@@ -225,10 +233,11 @@
 				"storage.type.class.php",
 				"storage.modifier.php",
 				"keyword.other.unit",
+				"keyword.operator",
+				"keyword.other.definition.ini",
 				"support.constant",
 				"variable",
-				"constant",
-				"keyword.operator"
+				"constant"
 			],
 			"settings": {
 				"foreground": "#BD93F9"
@@ -277,7 +286,8 @@
 				"invalid.illegal.expected-dictionary-separator.json.comments",
 				"string.quoted.double.json.comments",
 				"punctuation.definition.constant.css",
-				"constant.other.color.rgb-value.hex.css"
+				"constant.other.color.rgb-value.hex.css",
+				"punctuation.definition.variable.shell"
 			],
 			"settings": {
 				"foreground": "#F1FA8C"
@@ -292,7 +302,10 @@
 				"constant.language.php",
 				"punctuation.separator.dictionary.key-value.json.comments",
 				"keyword.control",
-				"storage"
+				"storage",
+				"variable.other.normal.shell",
+				"punctuation.separator.key-value.ini",
+				"keyword.operator.assignment.shell"
 			],
 			"settings": {
 				"foreground": "#FF79C6"

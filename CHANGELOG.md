@@ -1,6 +1,9 @@
+#### 1.18.1 (patch)
+- ini and shell files improvement.
+
 ### 1.18.0 (minor)
-- Blade Templates improvement.
 - UI improvement.
+- Blade Templates improvement.
 
 #### 1.17.3 (patch)
 - Small .scss improvement.
