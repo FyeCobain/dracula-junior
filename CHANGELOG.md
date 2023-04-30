@@ -1,7 +1,10 @@
+#### 1.20.1 (patch)
+- UI improvement.
+
 ### 1.20.0 (minor)
 - Overall improvement.
 
-#### 1.19.0 (minor)
+### 1.19.0 (minor)
 - UI improvement.
 - README.md updated.
 - Screnshot updated.

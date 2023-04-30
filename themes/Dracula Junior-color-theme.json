@@ -42,7 +42,7 @@
 		"button.secondaryBackground": "#43475C",
 		"button.foreground": "#FFFFFF",
 		"extensionButton.prominentForeground": "#FFFFFF",
-		"extensionButton.prominentBackground": "#50FA7B90",
+		"extensionButton.prominentBackground": "#69598B",
 		"extensionButton.prominentHoverBackground": "#BD93F9",
 		"tab.border": "#313443",
 		"tab.activeBackground": "#282A36",
