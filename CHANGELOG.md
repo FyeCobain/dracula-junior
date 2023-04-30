@@ -1,3 +1,6 @@
+#### 1.18.3 (patch)
+- README.md updated.
+
 #### 1.18.2 (patch)
 - Inline SQL improvement.
 

@@ -11,4 +11,4 @@ Just another version of [Dracula theme](https://draculatheme.com/visual-studio-c
 [MIT](./LICENSE)
 
 ### Attributions
-[Vampire icons created by Freepik](https://www.flaticon.com/free-icons/vampire)
+[Dracula icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/dracula)
