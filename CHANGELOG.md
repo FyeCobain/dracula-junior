@@ -1,3 +1,6 @@
+### 1.20.0 (minor)
+- Overall improvement.
+
 #### 1.19.0 (minor)
 - UI improvement.
 - README.md updated.
