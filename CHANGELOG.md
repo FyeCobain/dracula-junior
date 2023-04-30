@@ -1,7 +1,6 @@
-#### 1.18.5 (patch)
+#### 1.19.0 (patch)
+- UI improvement.
 - README.md updated.
-
-#### 1.18.4 (patch)
 - Screnshot updated.
 
 #### 1.18.3 (patch)
