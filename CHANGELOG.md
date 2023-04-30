@@ -1,4 +1,4 @@
-#### 1.19.0 (patch)
+#### 1.19.0 (minor)
 - UI improvement.
 - README.md updated.
 - Screnshot updated.
