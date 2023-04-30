@@ -1,3 +1,6 @@
+#### 1.18.4 (patch)
+- Screnshot updated.
+
 #### 1.18.3 (patch)
 - README.md updated.
 
