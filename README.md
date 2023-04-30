@@ -1,6 +1,6 @@
 # Dracula Junior
 
-Just another version of [Dracula theme](https://draculatheme.com/visual-studio-code) (not a fork).
+> Just another version of [Dracula theme](https://draculatheme.com/visual-studio-code) (not a fork).
 
 [![screenshot.png](./screenshot.png)](https://raw.githubusercontent.com/FyeCobain/dracula-junior/main/screenshot.png)
 
