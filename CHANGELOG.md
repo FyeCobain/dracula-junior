@@ -1,3 +1,6 @@
+#### 1.20.2 (patch)
+- UI improvement.
+
 #### 1.20.1 (patch)
 - UI improvement.
 
