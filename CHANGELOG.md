@@ -1,3 +1,6 @@
+#### 1.20.3 (patch)
+- Small editor improvement.
+
 #### 1.20.2 (patch)
 - UI improvement.
 
