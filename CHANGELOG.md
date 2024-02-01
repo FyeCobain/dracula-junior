@@ -1,3 +1,6 @@
+#### 1.20.4 (patch)
+- Small editor and TypeScript improvement.
+
 #### 1.20.3 (patch)
 - Small editor improvement.
 
