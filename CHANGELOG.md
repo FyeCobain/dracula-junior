@@ -1,3 +1,6 @@
+#### 1.20.5 (patch)
+- Trailing commas added.
+
 #### 1.20.4 (patch)
 - Small editor and TypeScript improvement.
 
