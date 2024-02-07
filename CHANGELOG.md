@@ -1,3 +1,6 @@
+#### 1.20.6 (patch)
+- Small .yaml improvement.
+
 #### 1.20.5 (patch)
 - Trailing commas added.
 

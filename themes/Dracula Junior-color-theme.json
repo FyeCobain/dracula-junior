@@ -265,6 +265,7 @@
 				"support.function.constructor.php",
 				"entity.name.tag.css",
 				"entity.name.function",
+				"entity.name.tag.yaml",
 			],
 			"settings": {
 				"foreground": "#50FA7B",
