@@ -1,3 +1,6 @@
+#### 1.20.7 (patch)
+- Small editor improvement.
+
 #### 1.20.6 (patch)
 - Small .yaml improvement.
 
