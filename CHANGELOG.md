@@ -1,3 +1,10 @@
+### 1.21.0 (minor)
+- JavaScript and TypeScript improvement.
+- .md improvement.
+- Screnshot updated.
+- README.md updated.
+- LICENSE updated.
+
 #### 1.20.7 (patch)
 - Small editor improvement.
 
@@ -64,7 +71,7 @@
 - Terminal ansi colors improvement.
 
 #### 1.16.5 (patch)
-- LICENSE year updated.
+- LICENSE updated.
 
 #### 1.16.4 (patch)
 - Terminal ansi colors improvement.

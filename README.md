@@ -1,4 +1,4 @@
-# Dracula Junior
+# [Dracula Junior](https://marketplace.visualstudio.com/items?itemName=FyeCobain.dracula-junior)
 
 > Just another version of [Dracula theme](https://draculatheme.com/visual-studio-code) (not a fork).
 

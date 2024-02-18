@@ -160,6 +160,18 @@
 	},
 	"tokenColors": [
 		{
+			"name": "bold",
+			"scope": [
+				"entity.name.section.markdown",
+				"markdown.heading",
+				"markup.heading | markup.heading entity.name",
+				
+			],
+			"settings": {
+				"fontStyle": "bold",
+			}
+		},
+		{
 			"name": "deep blue",
 			"scope": [
 				"entity.name.tag",
@@ -180,14 +192,19 @@
 				"storage.type.class.python",
 				"keyword.control.import.js",
 				"keyword.control.import.ts",
+				"keyword.control.import.tsx",
 				"keyword.control.from.js",
 				"keyword.control.from.ts",
+				"keyword.control.from.tsx",
 				"storage.type.js",
 				"storage.type.ts",
+				"storage.type.tsx",
 				"storage.type.function.js",
 				"storage.type.function.ts",
+				"storage.type.function.tsx",
 				"storage.type.class.js",
 				"storage.type.class.ts",
+				"storage.type.class.tsx",
 				"keyword.blade",
 				"support.function.construct.begin.blade",
 				"support.function.construct.end.blade",
@@ -211,8 +228,10 @@
 				"punctuation.definition.interpolation.begin.bracket.curly.scss",
 				"entity.name.type.class.js",
 				"entity.name.type.class.ts",
+				"entity.name.type.class.tsx",
 				"keyword.operator.assignment.js",
 				"keyword.operator.assignment.ts",
+				"keyword.operator.assignment.tsx",
 				"support.function.ahk",
 				"string.quoted.single.ini",
 				"string.quoted.double.ini",
@@ -221,8 +240,8 @@
 				"string.quoted.double.shell",
 				"constant.numeric.shell",
 				"constant.numeric.decimal.shell",
-				"string",
 				"source.ini",
+				"string",
 			],
 			"settings": {
 				"foreground": "#8BE9FD",
@@ -241,6 +260,9 @@
 				"support.constant",
 				"variable",
 				"constant",
+				"entity.name.section.markdown",
+				"markdown.heading",
+				"markup.heading | markup.heading entity.name",
 			],
 			"settings": {
 				"foreground": "#BD93F9",
@@ -266,6 +288,8 @@
 				"entity.name.tag.css",
 				"entity.name.function",
 				"entity.name.tag.yaml",
+				"keyword.operation.graphql",
+				"markup.quote.markdown",
 			],
 			"settings": {
 				"foreground": "#50FA7B",
@@ -280,8 +304,11 @@
 				"string.quoted.double.php",
 				"keyword.other.sql",
 				"keyword.other.DML.sql",
+				"variable.other.readwrite.alias.js",
 				"variable.other.readwrite.alias.ts",
-				"variable.other.readwrite.ts",
+				"variable.other.readwrite.alias.tsx",
+				"entity.name.type.ts",
+				"entity.name.type.tsx",
 				"string.quoted.double.ahk",
 				"string.quoted.double.json",
 				"meta.structure.dictionary.value.json",
@@ -292,7 +319,6 @@
 				"punctuation.definition.constant.css",
 				"constant.other.color.rgb-value.hex.css",
 				"punctuation.definition.variable.shell",
-				"entity.name.type.tsx",
 			],
 			"settings": {
 				"foreground": "#F1FA8C",
@@ -315,6 +341,7 @@
 				"keyword.other.DML.sql",
 				"punctuation.definition.string.begin.sql",
 				"punctuation.definition.string.end.sql",
+				"markup.heading.markdown punctuation.definition.heading.markdown",
 			],
 			"settings": {
 				"foreground": "#FF79C6",
@@ -754,17 +781,6 @@
 			],
 			"settings": {
 				"foreground": "#65737E",
-			}
-		},
-		{
-			"name": "Markdown - Heading",
-			"scope": [
-				"markdown.heading",
-				"markup.heading | markup.heading entity.name",
-				"markup.heading.markdown punctuation.definition.heading.markdown",
-			],
-			"settings": {
-				"foreground": "#C3E88D",
 			}
 		},
 		{
