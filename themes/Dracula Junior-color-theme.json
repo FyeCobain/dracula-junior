@@ -275,6 +275,8 @@
 				"variable.scss",
 				"variable.other.readwrite",
 				"variable.parameter",
+				"punctuation.definition.bold.markdown",
+				"markup.bold.markdown",
 			]
 			,"settings": {
 				"foreground": "#FFB86C",
@@ -323,6 +325,8 @@
 				"punctuation.definition.constant.css",
 				"constant.other.color.rgb-value.hex.css",
 				"punctuation.definition.variable.shell",
+				"punctuation.definition.italic.markdown",
+				"markup.italic.markdown",
 			],
 			"settings": {
 				"foreground": "#F1FA8C",
@@ -365,6 +369,7 @@
 			"name": "Comment",
 			"scope": [
 				"comment",
+				"meta.separator.markdown",
 				"punctuation.definition.comment",
 			],
 			"settings": {
@@ -858,15 +863,6 @@
 			],
 			"settings": {
 				"foreground": "#C792EA",
-			}
-		},
-		{
-			"name": "Markdown - Link Anchor",
-			"scope": [
-				"constant.other.reference.link.markdown",
-			],
-			"settings": {
-				"foreground": "#FFCB6B",
 			}
 		},
 		{

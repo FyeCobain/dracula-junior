@@ -1,3 +1,6 @@
+#### 1.21.2 (patch)
+- Small Markdown improvement.
+
 #### 1.21.1 (patch)
 - Small Markdown improvement.
 
