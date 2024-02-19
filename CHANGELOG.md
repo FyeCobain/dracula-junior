@@ -1,6 +1,9 @@
+#### 1.21.1 (patch)
+- Small Markdown improvement.
+
 ### 1.21.0 (minor)
 - JavaScript and TypeScript improvement.
-- .md improvement.
+- Markdown improvement.
 - Screnshot updated.
 - README.md updated.
 - LICENSE updated.

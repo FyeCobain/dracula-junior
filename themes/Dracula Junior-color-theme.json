@@ -165,7 +165,6 @@
 				"entity.name.section.markdown",
 				"markdown.heading",
 				"markup.heading | markup.heading entity.name",
-				
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -208,6 +207,7 @@
 				"keyword.blade",
 				"support.function.construct.begin.blade",
 				"support.function.construct.end.blade",
+				"string.other.link.title.markdown",
 			],
 			"settings": {
 				"foreground": "#58B3FC",
@@ -235,11 +235,12 @@
 				"support.function.ahk",
 				"string.quoted.single.ini",
 				"string.quoted.double.ini",
-				"string.unquoted.argument.shell",
 				"string.quoted.single.shell",
 				"string.quoted.double.shell",
 				"constant.numeric.shell",
 				"constant.numeric.decimal.shell",
+				"punctuation.definition.markdown",
+				"fenced_code.block.language.markdown",
 				"source.ini",
 				"string",
 			],
@@ -290,6 +291,9 @@
 				"entity.name.tag.yaml",
 				"keyword.operation.graphql",
 				"markup.quote.markdown",
+				"markup.inline.raw.string.markdown",
+				"entity.name.command.shell",
+				"string.unquoted.argument.shell",
 			],
 			"settings": {
 				"foreground": "#50FA7B",
@@ -845,15 +849,6 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-			}
-		},
-		{
-			"name": "Markdown - Link",
-			"scope": [
-				"string.other.link.title.markdown",
-			],
-			"settings": {
-				"foreground": "#82AAFF",
 			}
 		},
 		{
