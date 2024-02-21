@@ -1,3 +1,8 @@
+### 1.22.0 (minor)
+- HTML improvement.
+- .sql improvement.
+- React improvement.
+
 #### 1.21.3 (patch)
 - Screnshot updated.
 

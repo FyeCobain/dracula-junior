@@ -208,6 +208,9 @@
 				"support.function.construct.begin.blade",
 				"support.function.construct.end.blade",
 				"string.other.link.title.markdown",
+				"entity.name.tag.html",
+				"entity.name.tag.js.jsx",
+				"entity.name.tag.tsx"
 			],
 			"settings": {
 				"foreground": "#58B3FC",
@@ -232,6 +235,8 @@
 				"keyword.operator.assignment.js",
 				"keyword.operator.assignment.ts",
 				"keyword.operator.assignment.tsx",
+				"support.class.component.js.jsx",
+				"support.class.component.tsx",
 				"support.function.ahk",
 				"string.quoted.single.ini",
 				"string.quoted.double.ini",
@@ -243,6 +248,7 @@
 				"fenced_code.block.language.markdown",
 				"source.ini",
 				"string",
+				"storage.type.sql",
 			],
 			"settings": {
 				"foreground": "#8BE9FD",
@@ -296,6 +302,7 @@
 				"markup.inline.raw.string.markdown",
 				"entity.name.command.shell",
 				"string.unquoted.argument.shell",
+				"keyword.other.DML.sql",
 			],
 			"settings": {
 				"foreground": "#50FA7B",
@@ -309,7 +316,6 @@
 				"string.quoted.single.php",
 				"string.quoted.double.php",
 				"keyword.other.sql",
-				"keyword.other.DML.sql",
 				"variable.other.readwrite.alias.js",
 				"variable.other.readwrite.alias.ts",
 				"variable.other.readwrite.alias.tsx",
@@ -327,6 +333,7 @@
 				"punctuation.definition.variable.shell",
 				"punctuation.definition.italic.markdown",
 				"markup.italic.markdown",
+				
 			],
 			"settings": {
 				"foreground": "#F1FA8C",
@@ -346,9 +353,6 @@
 				"punctuation.separator.key-value.ini",
 				"keyword.operator.assignment.shell",
 				"keyword.sql",
-				"keyword.other.DML.sql",
-				"punctuation.definition.string.begin.sql",
-				"punctuation.definition.string.end.sql",
 				"markup.heading.markdown punctuation.definition.heading.markdown",
 			],
 			"settings": {
@@ -358,8 +362,12 @@
 		{
 			"name": "white",
 			"scope": [
-				"punctuation",
 				"text.html.php.blade",
+				"punctuation",
+				"punctuation.definition.string.begin.sql",
+				"punctuation.definition.string.end.sql",
+				"meta.jsx.children.js.jsx",
+				"meta.jsx.children.tsx",
 			],
 			"settings": {
 				"foreground": "#F8F8F2",
