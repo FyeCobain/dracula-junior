@@ -1,3 +1,7 @@
+### 1.23.0 (minor)
+- Sticky scroll colors added.
+- Small Overall improvement.
+
 ### 1.22.0 (minor)
 - HTML improvement.
 - .sql improvement.
