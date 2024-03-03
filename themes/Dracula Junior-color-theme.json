@@ -216,7 +216,12 @@
 				"string.other.link.title.markdown",
 				"entity.name.tag.html",
 				"entity.name.tag.js.jsx",
-				"entity.name.tag.tsx"
+				"entity.name.tag.tsx",
+				"storage.modifier.java",
+				"storage.type.primitive.java",
+				"keyword.other.package.java",
+				"keyword.other.import.java",
+				"variable.other.object.property.java",
 			],
 			"settings": {
 				"foreground": "#58B3FC",
@@ -253,8 +258,11 @@
 				"punctuation.definition.markdown",
 				"fenced_code.block.language.markdown",
 				"source.ini",
-				"string",
 				"storage.type.sql",
+				"variable.parameter.java",
+				"variable.other.object.java",
+				"variable.other.definition.java",
+				"string",
 			],
 			"settings": {
 				"foreground": "#8BE9FD",
@@ -276,6 +284,12 @@
 				"entity.name.section.markdown",
 				"markdown.heading",
 				"markup.heading | markup.heading entity.name",
+				"entity.other.inherited-class.java",
+				"entity.name.type.class.java",
+				"punctuation.separator.java",
+				"punctuation.terminator.java",
+				"storage.modifier.package.java",
+				"storage.modifier.import.java",
 			],
 			"settings": {
 				"foreground": "#BD93F9",
@@ -289,6 +303,11 @@
 				"variable.parameter",
 				"punctuation.definition.bold.markdown",
 				"markup.bold.markdown",
+				"storage.type.java",
+				"storage.type.primitive.java",
+				"storage.type.object.array.java",
+				"storage.type.primitive.array.java",
+				"storage.type.primitive.java",
 			]
 			,"settings": {
 				"foreground": "#FFB86C",
@@ -339,7 +358,7 @@
 				"punctuation.definition.variable.shell",
 				"punctuation.definition.italic.markdown",
 				"markup.italic.markdown",
-				
+				"string.quoted.double.java",				
 			],
 			"settings": {
 				"foreground": "#F1FA8C",
@@ -359,7 +378,7 @@
 				"punctuation.separator.key-value.ini",
 				"keyword.operator.assignment.shell",
 				"keyword.sql",
-				"markup.heading.markdown punctuation.definition.heading.markdown",
+				"markup.heading.markdown punctuation.definition.heading.markdown",	
 			],
 			"settings": {
 				"foreground": "#FF79C6",
@@ -374,6 +393,7 @@
 				"punctuation.definition.string.end.sql",
 				"meta.jsx.children.js.jsx",
 				"meta.jsx.children.tsx",
+				"constant.numeric.decimal.java",
 			],
 			"settings": {
 				"foreground": "#F8F8F2",

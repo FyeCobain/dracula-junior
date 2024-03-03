@@ -1,3 +1,6 @@
+### 1.24.0 (minor)
+- Java improvement.
+
 ### 1.23.0 (minor)
 - Sticky scroll colors added.
 - Small Overall improvement.
