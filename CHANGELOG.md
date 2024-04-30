@@ -1,3 +1,6 @@
+#### 1.24.1 (patch)
+- Small Vue improvement.
+
 ### 1.24.0 (minor)
 - Java improvement.
 

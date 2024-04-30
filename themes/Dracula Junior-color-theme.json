@@ -290,6 +290,9 @@
 				"punctuation.terminator.java",
 				"storage.modifier.package.java",
 				"storage.modifier.import.java",
+				"entity.name.tag.template.html.vue",
+				"entity.name.tag.script.html.vue",
+				"entity.name.tag.style.html.vue",
 			],
 			"settings": {
 				"foreground": "#BD93F9",
