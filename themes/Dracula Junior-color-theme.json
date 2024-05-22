@@ -157,12 +157,13 @@
 		"editorGutter.addedBackground": "#50FA7B85",
 		"editorGutter.modifiedBackground": "#8BE9FD90",
 		"editorGutter.deletedBackground": "#C32E2EF0",
-		"editorStickyScroll.background": "#6D80B725",
-		"editorStickyScrollHover.background": "#6D80B760",
+		"editorStickyScroll.background": "#4F5C81",
+		"editorStickyScrollHover.background": "#6d80b780",
 		"terminalStickyScroll.background": "#6D80B725",
 		"terminalStickyScrollHover.background": "#6D80B760",
 		"peekViewEditorStickyScroll.background": "#6D80B725",
 		"outputViewStickyScroll.background": "#6D80B760",
+		"sideBarStickyScroll.background": "#6273A47A",
 	},
 	"tokenColors": [
 		{

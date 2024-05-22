@@ -1,3 +1,6 @@
+### 1.25.0 (minor)
+- Sticky scrolls improvement.
+
 #### 1.24.1 (patch)
 - Small Vue improvement.
 
