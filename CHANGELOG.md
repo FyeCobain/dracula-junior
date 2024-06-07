@@ -1,3 +1,6 @@
+#### 1.26.1 (patch)
+- Small Screnshot improvement.
+
 ### 1.26.0 (minor)
 - Scrollbar improvement.
 - Minimap slider improvement.
