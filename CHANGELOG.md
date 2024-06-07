@@ -1,3 +1,6 @@
+#### 1.25.2 (patch)
+- Small merge colors improvement.
+
 #### 1.25.1 (patch)
 - Small minimap improvement.
 - Small JavaScript/TypeScript improvement.
