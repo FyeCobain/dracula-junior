@@ -1,3 +1,9 @@
+### 1.26.0 (minor)
+- Scrollbar improvement.
+- Minimap slider improvement.
+- Overview ruler improvement.
+- Screnshot updated.
+
 #### 1.25.4 (patch)
 - Small minimap improvement.
 
