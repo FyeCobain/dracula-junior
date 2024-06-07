@@ -1,3 +1,6 @@
+#### 1.26.2 (patch)
+- Screnshot updated.
+
 #### 1.26.1 (patch)
 - Small Screnshot improvement.
 
