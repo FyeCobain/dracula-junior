@@ -1,3 +1,6 @@
+#### 1.25.3 (patch)
+- Small editor improvement.
+
 #### 1.25.2 (patch)
 - Small merge colors improvement.
 
