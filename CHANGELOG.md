@@ -1,3 +1,7 @@
+#### 1.25.1 (patch)
+- Small minimap improvement.
+- Small JavaScript/TypeScript improvement.
+
 ### 1.25.0 (minor)
 - Sticky scrolls improvement.
 
