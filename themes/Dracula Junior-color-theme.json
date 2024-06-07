@@ -14,6 +14,7 @@
 		"minimapSlider.hoverBackground": "#44475AC0",
 		"minimapSlider.activeBackground": "#44475AC0",
 		"minimapGutter.modifiedBackground": "#8BE9FD90",
+		"minimap.errorHighlight": "#F45F5F60",
 		"window.activeBorder": "#8BE9FD",
 		"window.inactiveBorder": "#58B3FC",
 		"titleBar.activeBackground": "#21222C",

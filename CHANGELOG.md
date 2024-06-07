@@ -1,3 +1,6 @@
+#### 1.25.4 (patch)
+- Small minimap improvement.
+
 #### 1.25.3 (patch)
 - Small editor improvement.
 
