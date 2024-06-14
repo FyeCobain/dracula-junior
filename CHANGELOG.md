@@ -1,3 +1,7 @@
+#### 1.27.0 (patch)
+- JavaScript, TypeScript and React improvement.
+- Screenshot updated.
+
 #### 1.26.4 (patch)
 - Small TypeScript improvement.
 
