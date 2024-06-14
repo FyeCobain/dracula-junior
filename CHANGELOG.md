@@ -1,3 +1,6 @@
+#### 1.26.4 (patch)
+- Small TypeScript improvement.
+
 #### 1.26.3 (patch)
 - Screnshot updated.
 

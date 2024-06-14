@@ -295,6 +295,7 @@
 				"support.constant",
 				"variable",
 				"constant",
+				"variable.other.readwrite.ts",
 				"entity.name.section.markdown",
 				"markdown.heading",
 				"markup.heading | markup.heading entity.name",
